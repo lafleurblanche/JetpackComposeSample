@@ -1,1 +1,3 @@
 # JetpackComposeSample
+
+Jetpack Composeのサンプルプロジェクトです。
